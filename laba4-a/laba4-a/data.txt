@@ -1,0 +1,3 @@
+John Doe, 1985, engineer, R&D
+Jane Smith, 1990, chairman, Management
+Mike Brown, 1978, engineer, Production
